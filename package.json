@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-portal",
-  "version": "1.0.7",
+  "version": "2.0.0",
   "description": "Plugin to add a div element to the root html file for use by react portal.",
   "main": "index.js",
   "scripts": {
@@ -34,6 +34,6 @@
     "cross-env": "^5.1.4"
   },
   "peerDependencies": {
-    "gatsby": "^2.0.0"
+    "gatsby": "^2.0.0 || ^3.0.0"
   }
 }
